@@ -1,2 +1,2 @@
-fichier exemple
+fichier dismiss exemple
 fin des mouvements
